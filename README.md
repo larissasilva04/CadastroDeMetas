@@ -18,8 +18,4 @@ Sistema desktop desenvolvido em C# Windows Forms para gerenciamento e cadastro d
 - Visual Studio 2022 ou superior
 - .NET Framework 4.8+ ou .NET 6+
 
-### Como executar
-```bash
-git clone https://github.com/SEU_USUARIO/CadastroDeMetas.git
-cd CadastroDeMetas
-dotnet run
+
