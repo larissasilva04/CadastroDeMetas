@@ -1,6 +1,6 @@
-# 🏭 Sistema de Cadastro de Metais
+# 🏭 Sistema de Cadastro de Metas
 
-Sistema desktop desenvolvido em C# Windows Forms para gerenciamento e cadastro de metais.
+Sistema desktop desenvolvido em C# Windows Forms para gerenciamento e cadastro de metas para vendedores.
 
 ## 🚀 Download e Execução
 
